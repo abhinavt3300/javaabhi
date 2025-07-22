@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="g33zdIWjT_AUNYqJ0zq4">
-    <mxGraphModel dx="959" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="959" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#454176, #003931)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="V-puzQQFfWrUirzPYu5I-3" value="&#xa;&lt;span class=&quot;relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out&quot;&gt;&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;18&quot; data-start=&quot;0&quot;&gt;Class &amp;amp; Object&lt;/strong&gt; – A &lt;strong data-end=&quot;32&quot; data-start=&quot;23&quot;&gt;class&lt;/strong&gt; is a blueprint defining properties and behaviors, and an &lt;strong data-end=&quot;100&quot; data-start=&quot;90&quot;&gt;object&lt;/strong&gt; is an instance of that class.&lt;/span&gt; &#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="10" y="120" width="120" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="V-puzQQFfWrUirzPYu5I-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-puzQQFfWrUirzPYu5I-4" target="V-puzQQFfWrUirzPYu5I-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V-puzQQFfWrUirzPYu5I-4" value="&lt;span class=&quot;relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out&quot;&gt;&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;15&quot; data-start=&quot;0&quot;&gt;Inheritance&lt;/strong&gt; – Enables a subclass to inherit attributes and behaviors from a superclass, promoting code reuse.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="530" y="120" width="120" height="240" as="geometry" />
