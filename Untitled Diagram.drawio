@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="g33zdIWjT_AUNYqJ0zq4">
+    <mxGraphModel dx="959" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V-puzQQFfWrUirzPYu5I-1" value="&lt;span class=&quot;relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out&quot;&gt;&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;17&quot; data-start=&quot;0&quot;&gt;Encapsulation&lt;/strong&gt; – Bundles data and methods into a single unit, hiding internal details using access modifiers (&lt;code data-end=&quot;122&quot; data-start=&quot;113&quot;&gt;private&lt;/code&gt;, etc.).&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-3" value="&#xa;&lt;span class=&quot;relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out&quot;&gt;&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;18&quot; data-start=&quot;0&quot;&gt;Class &amp;amp; Object&lt;/strong&gt; – A &lt;strong data-end=&quot;32&quot; data-start=&quot;23&quot;&gt;class&lt;/strong&gt; is a blueprint defining properties and behaviors, and an &lt;strong data-end=&quot;100&quot; data-start=&quot;90&quot;&gt;object&lt;/strong&gt; is an instance of that class.&lt;/span&gt; &#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V-puzQQFfWrUirzPYu5I-4" target="V-puzQQFfWrUirzPYu5I-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-4" value="&lt;span class=&quot;relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out&quot;&gt;&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;15&quot; data-start=&quot;0&quot;&gt;Inheritance&lt;/strong&gt; – Enables a subclass to inherit attributes and behaviors from a superclass, promoting code reuse.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-6" value="&lt;span class=&quot;relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] bg-[#FCECC1] dark:bg-[#64572A] transition-colors duration-100 ease-in-out&quot;&gt;&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;16&quot; data-start=&quot;0&quot;&gt;Polymorphism&lt;/strong&gt; – Allows a single method or operator to behave differently based on context (overloading and overriding).&lt;/span&gt; &lt;span aria-describedby=&quot;radix-«r45»&quot; data-state=&quot;delayed-open&quot; class=&quot;&quot;&gt;&lt;span aria-describedby=&quot;radix-«r45»&quot; class=&quot;ms-1 inline-flex max-w-full items-center relative top-[-0.094rem] animate-[show_150ms_ease-in]&quot;&gt;&lt;a class=&quot;flex h-4.5 overflow-hidden rounded-xl px-2 text-[9px] font-medium bg-token-text-primary! text-token-main-surface-primary! transition-colors duration-150 ease-in-out&quot; alt=&quot;https://raygun.com/blog/oop-concepts-java/?utm_source=chatgpt.com&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https://raygun.com/blog/oop-concepts-java/?utm_source=chatgpt.com&quot;&gt;&lt;span class=&quot;relative start-0 bottom-0 flex h-full w-full items-center&quot;&gt;&lt;span class=&quot;max-w-full grow truncate overflow-hidden text-center&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V-puzQQFfWrUirzPYu5I-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.9999999999998" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V-puzQQFfWrUirzPYu5I-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V-puzQQFfWrUirzPYu5I-13">
+          <mxGeometry x="NaN" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-7" value="&lt;strong data-is-only-node=&quot;&quot; data-end=&quot;15&quot; data-start=&quot;0&quot;&gt;Abstraction&lt;/strong&gt; – Exposes only relevant aspects by hiding implementation, implemented via abstract classes/interfaces." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="120" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V-puzQQFfWrUirzPYu5I-9" value="&lt;h1&gt;OOPS IN JAVA&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
